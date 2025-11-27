@@ -21,7 +21,7 @@
       },
       "isDefault": true,
       "isVisible": true,
-      "label": "SARS-CoV-2 Node-RED (English)",
+      "label": "SARS-CoV-2 Node-RED",
       "header": false,
       "footer": false,
       "bodyBackgroundColor": "#000000"
@@ -36,7 +36,7 @@
       },
       "isDefault": false,
       "isVisible": true,
-      "label": "SARS-CoV-2 Survey123  (English) ",
+      "label": "SARS-CoV-2 Survey123",
       "header": false,
       "footer": false,
       "bodyBackgroundColor": "#000000"
@@ -51,7 +51,7 @@
       },
       "isDefault": false,
       "isVisible": true,
-      "label": "SARS-CoV-2 Revit Model  (English)",
+      "label": "SARS-CoV-2 Revit Model",
       "header": false,
       "footer": false,
       "bodyBackgroundColor": "#000000"
@@ -36193,7 +36193,7 @@
         "Page 6"
       ],
       "page_20": [
-        "SARS-CoV-2 Survey123  (English) 2"
+        "SARS-CoV-2 Survey123"
       ]
     }
   }
